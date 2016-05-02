@@ -19,7 +19,7 @@ version.)
 
 RUNNING THE APPLICATION FROM THE COMMAND LINE
 ---------------------------------------------------
-A convenience jar is supplied, so that you can run the app locally, without 
+A convenience jar is sfdfdfdfadfdasfdsfupplied, so that you can run the app locally, without 
 needing to do a complete build, if desired. You may run the app using :
 
 [STOCKSMONITOR_HOME]/jnlp>java -jar StocksMonitor.jar
