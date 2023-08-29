@@ -2,6 +2,8 @@ StocksMonitor
 Version : 1.7.0
 Published : September 20, 2013
 
+Hellor ravindra
+
 StocksMonitor is an example Swing application, implemented in Java.
 It is created by Hirondelle Systems and is available through javapractices.com.
 
