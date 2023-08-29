@@ -1,7 +1,7 @@
 name: Close inactive issues
 on:
   schedule:
-    - cron: "15 12 * * *"
+    - cron: "45 13 * * *"
 
 jobs:
   close-issues:
@@ -19,4 +19,4 @@ jobs:
           close-issue-message: "This issue was closed because it has been inactive for 14 days since being marked as stale."
           days-before-pr-stale: -1
           days-before-pr-close: -1
-          repo-token: "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"
+          repo-token: "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"
